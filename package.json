@@ -1,17 +1,24 @@
 {
-  "name": "react-native-picker",
-  "version": "4.3.7",
-  "description": "A Native Picker with high performance.",
+  "name": "jent-rn-picker",
+  "version": "1.0.0",
+  "description": "[![npm version](https://img.shields.io/npm/v/react-native-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-picker) <a href=\"https://david-dm.org/beefe/react-native-picker\"><img src=\"https://david-dm.org/beefe/react-native-picker.svg?style=flat-square\" alt=\"dependency status\"></a>",
   "main": "index.js",
-  "types": "index.d.ts",
+  "directories": {
+    "doc": "doc",
+    "example": "example"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:beefe/react-native-picker.git"
+    "url": "git+https://github.com/beefe/react-native-picker.git"
   },
-  "author": "zooble",
-  "license": "MIT",
-  "homepage": "https://github.com/beefe/react-native-picker"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beefe/react-native-picker/issues"
+  },
+  "homepage": "https://github.com/beefe/react-native-picker#readme"
 }
