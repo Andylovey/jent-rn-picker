@@ -1,6 +1,6 @@
 {
   "name": "jent-rn-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![npm version](https://img.shields.io/npm/v/react-native-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-picker) <a href=\"https://david-dm.org/beefe/react-native-picker\"><img src=\"https://david-dm.org/beefe/react-native-picker.svg?style=flat-square\" alt=\"dependency status\"></a>",
   "main": "index.js",
   "directories": {
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beefe/react-native-picker.git"
+    "url": "git+https://github.com/Andylovey/jent-rn-picker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beefe/react-native-picker/issues"
+    "url": "https://github.com/Andylovey/jent-rn-picker/issues"
   },
-  "homepage": "https://github.com/beefe/react-native-picker#readme"
+  "homepage": "https://github.com/Andylovey/jent-rn-picker#readme"
 }
